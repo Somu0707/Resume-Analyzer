@@ -252,9 +252,16 @@ Through this project, I learned:
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Project Team
 
-**Mulugu Soma Sekhara Chari**
+This project was collaboratively developed by:
+
+- **M. Soma Sekhara Chari**
+- **P. Sravya**
+- **M. Uday Kiran**
+- **M. Siva Sai Nikhil**
+- **R. Guru Brahma Chari**
+- **M. Lakshmana Chari**
 
 B.Tech Computer Science & Engineering
 
