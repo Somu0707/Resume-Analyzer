@@ -145,25 +145,29 @@ ATS Score =
 
 ## Home Page
 
-_Add screenshot here_
+![Home](images/home.png)
 
 ---
 
 ## ATS Score
 
-_Add screenshot here_
+![ATS Score](images/ats-score1.png)
+
+![ATS Score](images/ats-score2.png)
 
 ---
 
 ## Skill Analysis
 
-_Add screenshot here_
+## Skills Found
+
+![Skills](images/result1.png)
 
 ---
 
 ## Resume Extraction
 
-_Add screenshot here_
+![Skills](images/result2.png)
 
 ---
 
